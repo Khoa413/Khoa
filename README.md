@@ -1,1 +1,1 @@
-# Website for trollong my friends
+# Website for trolling my friends

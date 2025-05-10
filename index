@@ -1,23 +1,21 @@
 <!DOCTYPE html>
 <html lang="vi">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Centered Emoji</title>
-    <style>
-        body {
-            height: 100vh;
-            margin: 0;
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            font-size: 10em; /* Làm to emoji */
-        }
-    </style>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>🖕</title>
+  <style>
+    body {
+      height: 100vh;
+      margin: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-size: 10em;
+    }
+  </style>
 </head>
 <body>
-
-<div>🖕</div>
-
+  🖕
 </body>
 </html>
